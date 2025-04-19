@@ -27,9 +27,6 @@ Put the following sound files in the `sounds/` folder:
 - `yellow.mp3`
 - `wrong.mp3`
 
-## 📸 Demo
-
-> Add a GIF or screenshot here showing how the game works.
 
 ## 📄 License
 
